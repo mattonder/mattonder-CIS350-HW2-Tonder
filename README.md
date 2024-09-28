@@ -1,4 +1,5 @@
-# Johnny Mattew Tonder Gayoso
+# GVSU-CIS350-The Flying Dragons
+## Johnny Mattew Tonder Gayoso
 * Mixed martial arts
 * SQL Injections
 * Flipper zero
