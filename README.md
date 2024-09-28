@@ -7,4 +7,4 @@
 I have some experience in Python and Java.
 
 ## My favorite meme
-![meme](https://images.app.goo.gl/xaZNGxRnqUySvBjz9)
+![meme](https://images7.memedroid.com/images/UPLOADED888/5df3c162db67b.jpeg)
